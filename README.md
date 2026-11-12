@@ -1,6 +1,9 @@
 
 # 💻 Gemini Hardware Q&A Assistant
 
+link : https://hemanthtejavath-hardware-assistant-app-i6nm9x.streamlit.app/
+
+
 An AI-powered hardware assistant that collects real system hardware information from a Linux environment and answers user questions in natural language using Google Gemini.
 
 ## Features
